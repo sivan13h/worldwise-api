@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Vinuesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-26T11:06:18.704Z",
+      "notes": "",
+      "position": {
+        "lat": "41.983994270935625",
+        "lng": "-2.8125"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Saint-Georges-de-Baroille",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-05-26T11:09:04.024Z",
+      "notes": "",
+      "position": {
+        "lat": "45.85941212790755",
+        "lng": "4.086914062500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Otivar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-26T11:14:31.868Z",
+      "notes": "",
+      "position": {
+        "lat": "36.855449936136495",
+        "lng": "-3.7902832031250004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-26T11:15:47.576Z",
+      "notes": "",
+      "position": {
+        "lat": "40.41245043754496",
+        "lng": "-3.6996459960937504"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-26T11:15:59.574Z",
+      "notes": "",
+      "position": {
+        "lat": "40.40931350359072",
+        "lng": "-3.673553466796875"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Mequinensa / Mequinenza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-01T11:18:26.008Z",
+      "notes": "",
+      "position": {
+        "lat": "41.376808565702355",
+        "lng": "0.15380859375000003"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Caudete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-01T11:18:41.903Z",
+      "notes": "",
+      "position": {
+        "lat": "38.706516918639814",
+        "lng": "-0.9667968750000001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Mouadjebar",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-06-01T11:18:47.500Z",
+      "notes": "",
+      "position": {
+        "lat": "35.7846354629124",
+        "lng": "2.9003906250000004"
+      },
+      "id": 98443209
+    }
+  ]
+}
